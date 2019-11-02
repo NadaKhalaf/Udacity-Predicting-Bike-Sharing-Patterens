@@ -5,7 +5,7 @@ Udacity Deep learning Nanodgree First Project
 Most of this project is already Written by udacity team.
 
 # What i did in this project
-Student are reruierd to wirte the _functions formula_ for:
+Student are reruierd to:
 
 1- Implement the forward pass
    
